@@ -9,8 +9,10 @@ My research primarily revolves around exploring the mysteries of Superconductors
 
 Programming Languages: Python, C++, Wolfram Mathematica
 Specializations: Condensed Matter Physics, Superconductors, Topological Superconductors, Quantum Matter
+
 🌱 Currently Learning:
 I'm continuously expanding my knowledge in advanced simulation techniques and cutting-edge developments in the field of Condensed Matter Physics.
+* Quantum Computing
 
 🔍 Areas of Interest:
 
@@ -18,9 +20,10 @@ Superconductors
 Topological Superconductors
 Quantum Matter
 Computer Simulations
-🎓 Education:
 
+🎓 Education:
 Ph.D. in Condensed Matter Physics, Universidad Nacional de La Plata, Expected Graduation Year 2024
+
 👨‍🏫 Teaching Experience: 
 * Classical Mechanics
 * Experimental Physics II
@@ -28,13 +31,16 @@ Ph.D. in Condensed Matter Physics, Universidad Nacional de La Plata, Expected Gr
 * Quantum Mechanics II
 * Computer Simulations
 
-Teacher Assistant, Computer Simulations, Universidad Nacional de La Plata, Argentina
+## Universidad Nacional de La Plata, Argentina
+
 🌟 Projects:
+https://github.com/javierfeijoom/Simulaciones-Computacionales
 
 Currently, I'm involved in groundbreaking research projects related to Superconductors and Topological Superconductors. Stay tuned for updates on my GitHub repository!
+
 📫 Get in Touch:
 
-GitHub: [Your GitHub Profile URL]
-LinkedIn: [Your LinkedIn Profile URL]
-Email: [Your Email Address]
+GitHub: https://github.com/javierfeijoom
+Email: javierfeijoo66@gmail.com
+
 Let's explore the quantum universe together and unlock the secrets of matter! Feel free to connect and collaborate on exciting projects. Happy coding and experimenting! 🚀✨
