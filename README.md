@@ -1,4 +1,4 @@
-![graphene2_8](https://github.com/javierfeijoom/javierfeijoom/assets/55416949/e4ae278d-a0fb-4694-bfed-4801cc782f24)
+![b3ff78c0-6f52-4044-ba53-81ad267117f7](https://github.com/javierfeijoom/javierfeijoom/assets/55416949/039217b8-adf1-4dc7-9e15-bf02d5514191)
 👋 Hello, World! I'm Javier Feijoo, a passionate physicist born in Ecuador 🇪🇨 and currently pursuing my Ph.D. in Condensed Matter Physics with a focus on Superconductors and Topological Superconductors.
 
 🎓 I'm deeply immersed in the fascinating world of quantum matter and currently, I am a dedicated teacher assistant at Universidad Nacional de La Plata in Argentina. Teaching Quantum Mechanics 2, and guiding students through the complexities of Computer Simulations.
@@ -45,4 +45,5 @@ GitHub: https://github.com/javierfeijoom
 Email: javierfeijoo66@gmail.com
 
 Let's explore the quantum universe together and unlock the secrets of matter! Feel free to connect and collaborate on exciting projects. Happy coding and experimenting! 🚀✨
+
 
