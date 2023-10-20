@@ -21,9 +21,12 @@ Superconductors
 Topological Superconductors
 Quantum Matter
 Computer Simulations
+Quantum Computers (Software and Hardware)
 
 🎓 Education:
 Ph.D. in Condensed Matter Physics, Universidad Nacional de La Plata, Expected Graduation Year 2024
+
+## Universidad Nacional de La Plata, Argentina
 
 👨‍🏫 Teaching Experience: 
 * Classical Mechanics
@@ -32,7 +35,7 @@ Ph.D. in Condensed Matter Physics, Universidad Nacional de La Plata, Expected Gr
 * Quantum Mechanics II
 * Computer Simulations
 
-## Universidad Nacional de La Plata, Argentina
+
 
 🌟 Projects:
 https://github.com/javierfeijoom/Simulaciones-Computacionales
