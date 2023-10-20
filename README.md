@@ -47,6 +47,6 @@ Currently, I'm involved in groundbreaking research projects related to Supercond
 GitHub: https://github.com/javierfeijoom
 Email: javierfeijoo66@gmail.com
 
-Let's explore the quantum universe together and unlock the secrets of matter! Feel free to connect and collaborate on exciting projects. Happy coding and experimenting! 🚀✨
+
 
 
